@@ -1,0 +1,46 @@
+/home/mazzettl1/Desktop/FinalEdit_FuncVERF_HW/MIPSpipeline.sv {2 {vlog -work work -vopt -sv -stats=none /home/mazzettl1/Desktop/FinalEdit_FuncVERF_HW/MIPSpipeline.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module MIPSpipeline
+** Warning: /home/mazzettl1/Desktop/FinalEdit_FuncVERF_HW/MIPSpipeline.sv(221): (vlog-2275) 'MIPSpipeline' already exists and will be overwritten.
+-- Compiling module MIPSpipeline
+-- Compiling module InstructionMem
+-- Compiling module instrmemstimulous
+-- Compiling module Add
+-- Compiling module adder1bit
+-- Compiling module regfile
+-- Compiling module D_FF
+-- Compiling module RegBit
+-- Compiling module register
+-- Compiling module decoder
+-- Compiling module andmore
+-- Compiling module dec5to32
+-- Compiling module mux32to1
+-- Compiling module mux32x32to32
+-- Compiling module alu
+-- Compiling module alu1bit
+-- Compiling module addsub
+-- Compiling module adder
+-- Compiling module mux21
+-- Compiling module dataMem
+-- Compiling module zero_extend
+-- Compiling module mux2x32to32
+-- Compiling module sign_extend
+-- Compiling module shift_left_2
+-- Compiling module mux2x5to5
+-- Compiling module mux2_1
+-- Compiling module Control
+-- Compiling module ALUControl_Block
+-- Compiling module JRControl_Block
+-- Compiling module ForwardingUnit
+-- Compiling module mux3x32to32
+-- Compiling module StallControl
+-- Compiling module flush_block
+-- Compiling module Discard_Instr
+-- Compiling module WB_forward
+-- Compiling module CompareAddress
+
+Top level modules:
+	MIPSpipeline
+	instrmemstimulous
+
+} {} {}}
