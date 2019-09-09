@@ -1,0 +1,1080 @@
+-----------------------------------------------------------
+Cycle:                 0
+------------------PROGRAM COUNTER--------------------------
+Program Counter:       0
+--------------------INSTRUCTION----------------------------
+Instruction:           00111001100011010000000000001001
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000000000
+Register 14:           00000000000000000000000000000000
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 1
+------------------PROGRAM COUNTER--------------------------
+Program Counter:       0
+--------------------INSTRUCTION----------------------------
+Instruction:           00111001100011010000000000001001
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000000000
+Register 14:           00000000000000000000000000000000
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 2
+------------------PROGRAM COUNTER--------------------------
+Program Counter:       0
+--------------------INSTRUCTION----------------------------
+Instruction:           00111001100011100000000000000110
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000000000
+Register 14:           00000000000000000000000000000000
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 3
+------------------PROGRAM COUNTER--------------------------
+Program Counter:       4
+--------------------INSTRUCTION----------------------------
+Instruction:           00000001101011100111100000100010
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000000000
+Register 14:           00000000000000000000000000000000
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000001001
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             0
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         1
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 4
+------------------PROGRAM COUNTER--------------------------
+Program Counter:       8
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000000000
+Register 14:           00000000000000000000000000000000
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000110
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             0
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         1
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 5
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      12
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000000000
+Register 14:           00000000000000000000000000000000
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000011
+WB ALU Result:         00000000000000000000000000001001
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             0
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         1
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 6
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      16
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000000
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000110
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 7
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      20
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000000
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000011
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 8
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      24
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                 9
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      28
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                10
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      32
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                11
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      36
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                12
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      40
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                13
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      44
+--------------------INSTRUCTION----------------------------
+Instruction:           00000000000000000000000000000000
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                14
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      48
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                15
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      52
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000000000
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             1
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         0
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                16
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      56
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         000000000000000000000000000xxxxx
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                17
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      60
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000000xxxxxx
+WB ALU Result:         00000000000000000000000000000000
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                18
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      64
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000000000
+Register 13:           00000000000000000000000000001001
+Register 14:           00000000000000000000000000000110
+Register 15:           00000000000000000000000000000011
+-----------------------ALU---------------------------------
+EX ALU Result:         0000000000000000000000000xxxxxxx
+WB ALU Result:         000000000000000000000000000xxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                19
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      68
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           000000000000000000000000000xxxxx
+Register 13:           000000000000000000000000000xxxxx
+Register 14:           000000000000000000000000000xxxxx
+Register 15:           000000000000000000000000000xxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000000000000000000000000xxxxxxxx
+WB ALU Result:         00000000000000000000000000xxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                20
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      72
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000000xxxxxx
+Register 13:           00000000000000000000000000xxxxxx
+Register 14:           00000000000000000000000000xxxxxx
+Register 15:           00000000000000000000000000xxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000000xxxxxxxxx
+WB ALU Result:         0000000000000000000000000xxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                21
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      76
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           0000000000000000000000000xxxxxxx
+Register 13:           0000000000000000000000000xxxxxxx
+Register 14:           0000000000000000000000000xxxxxxx
+Register 15:           0000000000000000000000000xxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         0000000000000000000000xxxxxxxxxx
+WB ALU Result:         000000000000000000000000xxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                22
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      80
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           000000000000000000000000xxxxxxxx
+Register 13:           000000000000000000000000xxxxxxxx
+Register 14:           000000000000000000000000xxxxxxxx
+Register 15:           000000000000000000000000xxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000000000000000000000xxxxxxxxxxx
+WB ALU Result:         00000000000000000000000xxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                23
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      84
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000000xxxxxxxxx
+Register 13:           00000000000000000000000xxxxxxxxx
+Register 14:           00000000000000000000000xxxxxxxxx
+Register 15:           00000000000000000000000xxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000000xxxxxxxxxxxx
+WB ALU Result:         0000000000000000000000xxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                24
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      88
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           0000000000000000000000xxxxxxxxxx
+Register 13:           0000000000000000000000xxxxxxxxxx
+Register 14:           0000000000000000000000xxxxxxxxxx
+Register 15:           0000000000000000000000xxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         0000000000000000000xxxxxxxxxxxxx
+WB ALU Result:         000000000000000000000xxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                25
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      92
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           000000000000000000000xxxxxxxxxxx
+Register 13:           000000000000000000000xxxxxxxxxxx
+Register 14:           000000000000000000000xxxxxxxxxxx
+Register 15:           000000000000000000000xxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000000000000000000xxxxxxxxxxxxxx
+WB ALU Result:         00000000000000000000xxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                26
+------------------PROGRAM COUNTER--------------------------
+Program Counter:      96
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000000xxxxxxxxxxxx
+Register 13:           00000000000000000000xxxxxxxxxxxx
+Register 14:           00000000000000000000xxxxxxxxxxxx
+Register 15:           00000000000000000000xxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000000xxxxxxxxxxxxxxx
+WB ALU Result:         0000000000000000000xxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                27
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     100
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           0000000000000000000xxxxxxxxxxxxx
+Register 13:           0000000000000000000xxxxxxxxxxxxx
+Register 14:           0000000000000000000xxxxxxxxxxxxx
+Register 15:           0000000000000000000xxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         0000000000000000xxxxxxxxxxxxxxxx
+WB ALU Result:         000000000000000000xxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                28
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     104
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           000000000000000000xxxxxxxxxxxxxx
+Register 13:           000000000000000000xxxxxxxxxxxxxx
+Register 14:           000000000000000000xxxxxxxxxxxxxx
+Register 15:           000000000000000000xxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000000000000000xxxxxxxxxxxxxxxxx
+WB ALU Result:         00000000000000000xxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                29
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     108
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000000xxxxxxxxxxxxxxx
+Register 13:           00000000000000000xxxxxxxxxxxxxxx
+Register 14:           00000000000000000xxxxxxxxxxxxxxx
+Register 15:           00000000000000000xxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000000xxxxxxxxxxxxxxxxxx
+WB ALU Result:         0000000000000000xxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                30
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     112
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           0000000000000000xxxxxxxxxxxxxxxx
+Register 13:           0000000000000000xxxxxxxxxxxxxxxx
+Register 14:           0000000000000000xxxxxxxxxxxxxxxx
+Register 15:           0000000000000000xxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         0000000000000xxxxxxxxxxxxxxxxxxx
+WB ALU Result:         000000000000000xxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                31
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     116
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           000000000000000xxxxxxxxxxxxxxxxx
+Register 13:           000000000000000xxxxxxxxxxxxxxxxx
+Register 14:           000000000000000xxxxxxxxxxxxxxxxx
+Register 15:           000000000000000xxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000000000000xxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         00000000000000xxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                32
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     120
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000000xxxxxxxxxxxxxxxxxx
+Register 13:           00000000000000xxxxxxxxxxxxxxxxxx
+Register 14:           00000000000000xxxxxxxxxxxxxxxxxx
+Register 15:           00000000000000xxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000000xxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         0000000000000xxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                33
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     124
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           0000000000000xxxxxxxxxxxxxxxxxxx
+Register 13:           0000000000000xxxxxxxxxxxxxxxxxxx
+Register 14:           0000000000000xxxxxxxxxxxxxxxxxxx
+Register 15:           0000000000000xxxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         0000000000xxxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         000000000000xxxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                34
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     128
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           000000000000xxxxxxxxxxxxxxxxxxxx
+Register 13:           000000000000xxxxxxxxxxxxxxxxxxxx
+Register 14:           000000000000xxxxxxxxxxxxxxxxxxxx
+Register 15:           000000000000xxxxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000000000xxxxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         00000000000xxxxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                35
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     132
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000000xxxxxxxxxxxxxxxxxxxxx
+Register 13:           00000000000xxxxxxxxxxxxxxxxxxxxx
+Register 14:           00000000000xxxxxxxxxxxxxxxxxxxxx
+Register 15:           00000000000xxxxxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         00000000xxxxxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         0000000000xxxxxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                36
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     136
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           0000000000xxxxxxxxxxxxxxxxxxxxxx
+Register 13:           0000000000xxxxxxxxxxxxxxxxxxxxxx
+Register 14:           0000000000xxxxxxxxxxxxxxxxxxxxxx
+Register 15:           0000000000xxxxxxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         0000000xxxxxxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         000000000xxxxxxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                37
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     140
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           000000000xxxxxxxxxxxxxxxxxxxxxxx
+Register 13:           000000000xxxxxxxxxxxxxxxxxxxxxxx
+Register 14:           000000000xxxxxxxxxxxxxxxxxxxxxxx
+Register 15:           000000000xxxxxxxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000000xxxxxxxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         00000000xxxxxxxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                38
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     144
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           00000000xxxxxxxxxxxxxxxxxxxxxxxx
+Register 13:           00000000xxxxxxxxxxxxxxxxxxxxxxxx
+Register 14:           00000000xxxxxxxxxxxxxxxxxxxxxxxx
+Register 15:           00000000xxxxxxxxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         00000xxxxxxxxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         0000000xxxxxxxxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
+-----------------------------------------------------------
+Cycle:                39
+------------------PROGRAM COUNTER--------------------------
+Program Counter:     148
+--------------------INSTRUCTION----------------------------
+Instruction:           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---------------------REGISTERS-----------------------------
+Register 12:           0000000xxxxxxxxxxxxxxxxxxxxxxxxx
+Register 13:           0000000xxxxxxxxxxxxxxxxxxxxxxxxx
+Register 14:           0000000xxxxxxxxxxxxxxxxxxxxxxxxx
+Register 15:           0000000xxxxxxxxxxxxxxxxxxxxxxxxx
+-----------------------ALU---------------------------------
+EX ALU Result:         000xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+WB ALU Result:         000000xxxxxxxxxxxxxxxxxxxxxxxxxx
+--------------------BRANCH/JUMPS----------------------------
+Branch:                0
+Jump:                  0
+------------------------FLAGS-------------------------------
+Zero Flag:             x
+Overflow Flag:         0
+Carry Flag:            0
+Negative Flag:         0
+not Zero Flag:         x
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ END OF CYCLE :) ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+ 
+ 
